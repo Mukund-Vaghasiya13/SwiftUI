@@ -3,7 +3,7 @@
 //  GitHubUserInfo
 //
 //  Created by Mukund vaghasiya  on 18/06/23.
-// Krinskumar Vaghasia
+
 
 import SwiftUI
 
